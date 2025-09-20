@@ -42,10 +42,13 @@ step(sys,t)
 ## Output:
 ### Open Loop System
 <img width="664" height="586" alt="image" src="https://github.com/user-attachments/assets/68b3ff78-547f-479a-808b-011460c52e4b" />
+
 ### Closed Loop System
 <img width="660" height="597" alt="image" src="https://github.com/user-attachments/assets/6e11529d-38e5-49d1-8316-f87e9c787efc" />
+
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
+
 ### Open loop system
 Steady State Error = 0.95
 Settling Time = 2.01 seconds
